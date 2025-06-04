@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Este projeto faz parte de um desafio prático da plataforma DIO. O objetivo foi aplicar técnicas de organização, indexação e mineração de conhecimento utilizando os serviços de inteligência artificial do Azure. O laboratório foi baseado no guia "Explore an Azure AI Search index (UI)" e teve como cenário a análise de dados de avaliações de clientes de uma cafeteria fictícia, a Fourth Coffee.
+Este projeto faz parte de um desafio prático da plataforma DIO. O objetivo foi aplicar técnicas de organização, indexação e mineração de conhecimento utilizando os serviços de inteligência artificial do Azure. O laboratório foi baseado no guia [Explore an Azure AI Search index (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) e teve como cenário a análise de dados de avaliações de clientes de uma cafeteria fictícia, a Fourth Coffee.
 
 ### Principais etapas realizadas:
 
